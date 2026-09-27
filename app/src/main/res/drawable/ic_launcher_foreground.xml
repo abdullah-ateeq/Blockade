@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Bronze barrier -->
+    <path
+        android:fillColor="#FFB08D57"
+        android:pathData="M36,52.5h36v3h-36z" />
+    <!-- Player 2 circle -->
+    <path
+        android:fillColor="#FF2F7E86"
+        android:pathData="M54,33m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+    <!-- Player 1 diamond -->
+    <path
+        android:fillColor="#FFB4533C"
+        android:pathData="M54,64l9,9l-9,9l-9,-9z" />
+</vector>
